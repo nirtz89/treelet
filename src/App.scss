@@ -1,0 +1,20 @@
+.App {
+  height: 100vh;
+  background: #00256a;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  transition: 0.18s all;
+  &.treelet-USERS {
+    background: #00256a;
+  }
+  &.treelet-FILES {
+    background: #a77822;
+  }
+}
+
+
+* {
+  box-sizing: border-box;
+}
