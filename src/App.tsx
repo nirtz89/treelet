@@ -73,14 +73,14 @@ const items: TreeletItemData[] = [
 
 const files: TreeletItemData[] = [
   {
-    title: "Wiz folder",
+    title: "System folder",
     subtitle: "Very secret",
     icon: "https://cdn-icons-png.flaticon.com/512/716/716784.png",
     children: [
       generateRandomFileAndIcon(),
       generateRandomFileAndIcon(),
       {
-        title: "Wiz inside folder",
+        title: "System Inner folder",
         subtitle: "Even more secret",
         icon: "https://cdn-icons-png.flaticon.com/512/716/716784.png",
         getItem: getFakeFilesInRandomDelay,
