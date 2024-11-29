@@ -1,4 +1,4 @@
-# Wiz's Home Assignment
+# Treelet Component
 
 Not going to lie this was pretty fun.  
 To run:  
